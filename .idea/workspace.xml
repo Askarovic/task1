@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a6912d-b120-4294-888d-1d95645b6e9b" name="Changes" comment="feat: add footer" />
+    <list default="true" id="b2a6912d-b120-4294-888d-1d95645b6e9b" name="Changes" comment="init: start">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,6 +53,7 @@
       <updated>1644292089778</updated>
       <workItem from="1644292090994" duration="1683000" />
       <workItem from="1644376835285" duration="133000" />
+      <workItem from="1644376979180" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="init: start">
       <created>1644292168179</created>
@@ -86,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644292794734</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init: start">
+      <created>1644377038473</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644377038473</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,9 +127,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init: start" />
     <MESSAGE value="feat: add header" />
     <MESSAGE value="feat: add footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add footer" />
+    <MESSAGE value="init: start" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: start" />
   </component>
 </project>
